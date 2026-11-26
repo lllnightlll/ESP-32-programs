@@ -1,0 +1,12 @@
+/build/
+/.pio/
+/sdkconfig
+/sdkconfig.*
+!/sdkconfig.defaults
+/dependencies.lock
+/managed_components/
+/.vscode/ipch/
+/.vscode/browse.vc.db*
+/compile_commands.json
+*.user
+.vscode/
